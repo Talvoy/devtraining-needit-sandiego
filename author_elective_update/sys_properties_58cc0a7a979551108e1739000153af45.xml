@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_58872_needit.glide.script.block.client.globals</name>
+        <read_roles/>
+        <suffix>glide.script.block.client.globals</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-17 18:31:05</sys_created_on>
+        <sys_id>58cc0a7a979551108e1739000153af45</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_58872_needit.glide.script.block.client.globals</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_58cc0a7a979551108e1739000153af45</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-17 18:31:26</sys_updated_on>
+        <type>boolean</type>
+        <value>false</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=58cc0a7a979551108e1739000153af45"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>90eceaa3db06b3c84d2bac44d4961949</instance_id>
+        <instance_name>dev88537</instance_name>
+        <name>sys_properties_58cc0a7a979551108e1739000153af45</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description/><ignore_cache>true</ignore_cache><is_private>false</is_private><name>x_58872_needit.glide.script.block.client.globals</name><read_roles/><suffix>glide.script.block.client.globals</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-17 18:31:05</sys_created_on><sys_id>58cc0a7a979551108e1739000153af45</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_58872_needit.glide.script.block.client.globals</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_properties_58cc0a7a979551108e1739000153af45</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-17 18:31:26</sys_updated_on><type>boolean</type><value>false</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=58cc0a7a979551108e1739000153af45"/></record_update>]]></payload>
+        <payload_hash>-2138665678</payload_hash>
+        <record_name>x_58872_needit.glide.script.block.client.globals</record_name>
+        <reverted_from/>
+        <source>41f5eccf97c111108e1739000153af5a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-17 18:31:26</sys_created_on>
+        <sys_id>07dc8a7a979551108e1739000153af35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182ad1318be0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-17 18:31:26</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>8fdc0e3a839551104097e629c972771d</update_guid>
+        <update_guid_history>8fdc0e3a839551104097e629c972771d:-2138665678,8ecc0a7a319551102ae7e0a0a683bb9d:-650659343</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 18:00:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>893447776f10485293b288ee8ae3f964</sys_id>
+        <sys_metadata>58cc0a7a979551108e1739000153af45</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.glide.script.block.client.globals</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_58cc0a7a979551108e1739000153af45</sys_update_name>
+        <sys_update_version display_value="sys_properties_58cc0a7a979551108e1739000153af45">07dc8a7a979551108e1739000153af35</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 18:00:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
